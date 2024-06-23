@@ -1,0 +1,42 @@
+.main-container {
+    background-color: black;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+
+a {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    color : white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-weight:300;
+    font-size: 42px;
+}
+h3 {
+    color:grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+.app {
+
+}
+
+footer {
+    text-align: right;
+}
+
+.section {
+    padding: 10px 0;
+}
